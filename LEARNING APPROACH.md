@@ -8,7 +8,7 @@
 * Google, StackOverflow, Official Documentation, Blog articles and some cooking receipts are enough to build a hobby project. All we need is dedication, consistency & responsibleness.
 * [Lets work in team.](https://medium.com/flutter-community/dependency-injection-in-flutter-f19fb66a0740)
 
-  + If you don't know what to do, you can discuss and decide. 
+  + If you don't know what to do, you can discuss and decide.
   + If you don't know how to do something, you can search and ask where you need help in it.
   + If you don't understand A, maybe it's because you don't know B, you can learn B by knowing C. A -> B -> C.
   + By feeding back this knowledge of B and C, you will get A. But we need to focus and intent to do so. (We are getting too distracted by stimulations provided by larger, money oriented organizations.)
@@ -23,3 +23,22 @@
 * How to write documented, organized, understandable & testable code.
 
 **We are not allowed to watch a course or read a book for this. Searching, reading and discussing (watching small tutorial videos) is enough**
+
+## What we will need to learn ?
+
+### Currently :
+
+* Creating two screens
+  + A screen with button which on press will open an operating system files.
+    - Try this on windows, linux, android, web browser and iOS.
+
+  + Building a second screen which will list file items in responsive grids.
+  + Routing between these two screen.
+  + ...more to come.
+
+### in Future
+
+* Research and overviews library as well as community packages then listing useful packages.
+* How to build a p2p network in dart.
+
+*....
